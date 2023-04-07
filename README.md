@@ -30,8 +30,4 @@ Various plots are created to better understand the relationships between variabl
 - Histograms: Bar plots showing the frequency distribution of each variable.
 - Box plots: Plots representing the central tendency, dispersion, and skewness of each variable.
 
-## Findings
 
-The analysis reveals that GDP per capita, social support, and healthy life expectancy have strong positive correlations with the happiness score. Freedom to make life choices shows a moderately positive correlation, while generosity and perceptions of corruption have weaker correlations. The data visualization techniques used in this project help in understanding the relationships between variables and their distribution, taking into account the skewness and kurtosis of the variables.
-
-By understanding the factors contributing to a country's happiness, policymakers and researchers can develop effective strategies to improve the well-being of citizens. This project demonstrates how multiple regression analysis and exploratory data analysis can be applied to uncover meaningful insights from the World Happiness Report dataset.
